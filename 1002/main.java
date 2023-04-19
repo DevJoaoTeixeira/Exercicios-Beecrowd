@@ -10,7 +10,7 @@ public class Main {
         
         double raio = input.nextDouble(); 
         double pi = 3.14159;
-        double area = pi * Math.pow(raio, 2);
+        double area = pi * Math.pow(raio, 2); //também daria certo fazer raio * raio 
 
         System.out.printf("A=%.4f%n", area);
 

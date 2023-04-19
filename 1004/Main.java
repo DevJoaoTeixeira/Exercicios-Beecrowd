@@ -10,6 +10,7 @@ public class Main {
         int b = input.nextInt();
         int produto = a * b;
         System.out.println("PROD = " + produto);
+        input.close();
 
     }
 }
