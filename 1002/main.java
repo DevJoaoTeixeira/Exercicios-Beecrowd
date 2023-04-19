@@ -1,10 +1,11 @@
+//1002 - Área do Círculo
 import java.util.Locale;
 import java.util.Scanner;
 
-public class main {
+public class Main {
     public static void main(String[] args) throws Exception {
+        
         Locale.setDefault(Locale.US);
-  
         Scanner input = new Scanner(System.in);
         
         double raio = input.nextDouble(); 
