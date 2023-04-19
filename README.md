@@ -1,1 +1,3 @@
 # Exercicios-Beecrowd
+
+### Exercícios resolvidos.
